@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.p {
+  background-color: rgb(255, 182, 193);
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+#four {
+  font-weight: bold;
+  font-size: 18px;
+  background-color: rgb(134, 210, 134);
+}
+
+#two {
+  font-weight: bold;
+  color: rgb(52, 61, 184);
+  font-size: 36px;
+}
+
+.cooler {
+  font-weight: bold;
+  font-size: 18px;
+}
