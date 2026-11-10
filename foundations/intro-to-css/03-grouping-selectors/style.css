@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.uniq1,
+.uniq2 {
+  font-family: "Helvetica", "Times New Roman", "serif";
+  font-size: 28px;
+}
+
+.uniq1 {
+  background-color: black;
+  color: white;
+}
+
+.uniq2 {
+  background-color: yellow;
+}
